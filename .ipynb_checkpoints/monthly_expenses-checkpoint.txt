@@ -1,0 +1,1 @@
+[['Rent', 2000], ['Gas', 180], ['Food', 750], ['Clothing', 300], ['Car payment', 600], ['Misc', 30]]
